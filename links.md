@@ -5,14 +5,12 @@ permalink: LINKS/
 # LINKS
 
 1. [Most-Used Linux Commands](https://kinsta.com/blog/linux-commands/)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+This page contains a lot of Linux commands which are very influential on the use of Linux as a whole.
 
-2. [Linux From Scratch](https://www.linuxfromscratch.org)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+
+3. [Linux From Scratch](https://www.linuxfromscratch.org)<br>
+This page explains about the details of making linux from scratch.
+This page is very interesting because this page can explain the topic of Linux from scratch (which is a very difficult topic) in detail and is easy to understand.
 
 <br>
 <hr>
