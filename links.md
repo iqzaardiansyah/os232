@@ -4,9 +4,9 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Most-Used Linux Commands](https://kinsta.com/blog/linux-commands/)<br>
-This page contains a lot of Linux commands which are very influential on the use of Linux as a whole.
-
+1. [Interesting Facts About Linux](https://www.omgubuntu.co.uk/2018/08/interesting-facts-about-linux)<br>
+This page contains a lot of interesting facts about linux.
+This page is very interesting because this page explains interesting facts about Linux that many people rarely know because most people use Windows.
 
 3. [Linux From Scratch](https://www.linuxfromscratch.org)<br>
 This page explains about the details of making linux from scratch.
