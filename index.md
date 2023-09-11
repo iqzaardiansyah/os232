@@ -1,4 +1,5 @@
-# **os232**##### Hello! Welcome to my os232 repository.
+# **os232**
+##### Hello! Welcome to my os232 repository.
 ---
 
 Here are the links to my GitHub page, my tarball, and my mylog.txt.
