@@ -8,3 +8,5 @@ Here are the links to my GitHub page, my TARBALL, my mylog.txt, and my GitHub/LI
 2. [TARBALL](https://os.vlsm.org/Log/iqzaardiansyah.tar.bz2.txt).
 3. [mylog.txt](https://github.com/iqzaardiansyah/os232/blob/main/TXT/mylog.txt).
 4. [LINKS](https://iqzaardiansyah.github.io/os232/LINKS).
+
+**REV: Mon 18 Sep 2023 16:07**
