@@ -8,9 +8,32 @@ permalink: LINKS/
 This page contains a lot of interesting facts about linux.
 This page is very interesting because this page explains interesting facts about Linux that many people rarely know because most people use Windows.
 
-3. [Linux From Scratch](https://www.linuxfromscratch.org)<br>
+2. [Linux From Scratch](https://www.linuxfromscratch.org)<br>
 This page explains about the details of making linux from scratch.
 This page is very interesting because this page can explain the topic of Linux from scratch (which is a very difficult topic) in detail and is easy to understand.
 
+3. [Unix/Linux - The vi Editor Tutorial](https://www.tutorialspoint.com/unix/unix-vi-editor.htmg)<br>
+A little bit of explanation about the `vi` editor which is often used by users to edit files on Linux.
+
+4. [How to Use Nano, the Linux Command Line Text Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)<br>
+An explanation about the `nano` editor and how to use it. I think `nano` editor is better than `vi` editor.
+
+5. [Getting Started with Vim Editor in Linux](https://www.geeksforgeeks.org/getting-started-with-vim-editor-in-linux/)<br>
+An explanation about the `vim` editor (an improved version of `vi`) and how to use it.
+
+6. [Nano vs VIM editor – What’s the difference between nano and vim editors?](https://www.geeksforgeeks.org/nano-vs-vim-editor-whats-the-difference-between-nano-and-vim-editors/)<br>
+Explains the differences and reasons why you should choose nano editor over vim editor.
+
+7. [NixOS](https://nixos.org)<br>
+One of the most unique Linux distros.
+
+8. [31 popular Linux distributions](https://www.stackscale.com/blog/popular-linux-distributions/)<br>
+31 popular Linux distors and a little bit of information about them.
+
+9. [5 Best Linux Package Managers](https://blog.packagecloud.io/5-best-linux-package-managers/)<br>
+5 best linux package managers that may help in installing and managing your packages.
+
+10. [The Linux Kernel](https://docs.kernel.org)<br>
+A detailed explanation about Linux kernel.
 <br>
 <hr>
