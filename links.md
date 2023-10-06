@@ -2,7 +2,10 @@
 permalink: LINKS/
 ---
 
-# LINKS
+# LINKS 🐈🌻
+![Alt Text](https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif)
+
+<div class = "hehe">
 
 1. [Interesting Facts About Linux](https://www.omgubuntu.co.uk/2018/08/interesting-facts-about-linux)<br>
 This page contains a lot of interesting facts about linux.
@@ -35,5 +38,13 @@ One of the most unique Linux distros.
 
 10. [The Linux Kernel](https://docs.kernel.org)<br>
 A detailed explanation about Linux kernel.
+
+11. [Common git problems and how to fix them](https://medium.com/@basitalkaff/common-git-problems-and-how-to-fix-them-878ef750a015)<br>
+Common git problems that you may encounter while taking OS course and how to handle them.
+
+12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+A little explanation about Concurrency which might be a topic that will be discussed after the midterm exam.
+
 <br>
 <hr>
+</dv>
