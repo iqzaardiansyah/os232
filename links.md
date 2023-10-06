@@ -5,8 +5,6 @@ permalink: LINKS/
 # LINKS 🐈🌻
 ![Alt Text](https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif)
 
-<div class = "hehe">
-
 1. [Interesting Facts About Linux](https://www.omgubuntu.co.uk/2018/08/interesting-facts-about-linux)<br>
 This page contains a lot of interesting facts about linux.
 This page is very interesting because this page explains interesting facts about Linux that many people rarely know because most people use Windows.
@@ -47,4 +45,3 @@ A little explanation about Concurrency which might be a topic that will be discu
 
 <br>
 <hr>
-</dv>
