@@ -43,5 +43,11 @@ Common git problems that you may encounter while taking OS course and how to han
 12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 A little explanation about Concurrency which might be a topic that will be discussed after the midterm exam.
 
+13. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+An Introduction to Process Synchronization which is the teaching material for Week 7.
+
+14. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+An Introduction to Deadlock which is the teaching material for Week 7.
+
 <br>
 <hr>
