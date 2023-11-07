@@ -49,7 +49,7 @@ An Introduction to Process Synchronization which is the teaching material for We
 14. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 An Introduction to Deadlock which is the teaching material for Week 7.
 
-15. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeks>
+15. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
 An explanation about the use of malloc() and other memory allocation method.
 
 16. [Race Condition Vulnerability](https://www.geeksforgeeks.org/race-condition-vulnerability/)<br>
