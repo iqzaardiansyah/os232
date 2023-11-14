@@ -53,5 +53,11 @@ An explanation about the use of malloc() and other memory allocation method.
 16. [Race Condition Vulnerability](https://www.geeksforgeeks.org/race-condition-vulnerability/)<br>
 An explanation about Race Conditions that cause inconsistencies in a system.
 
+17. [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)<br>
+Full YouTube playlist explaining about how to build Linux from Scratch 12.0.
+
+18. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+Scheduling of processes/work is done to finish the work on time. CPU Scheduling is a process that allows one process to use the CPU while another process is delayed (in standby) due to unavailability of any resources such as I / O etc, thus making full use of the CPU. The purpose of CPU Scheduling is to make the system more efficient, faster, and fairer.
+
 <br>
 <hr>
