@@ -59,5 +59,11 @@ Full YouTube playlist explaining about how to build Linux from Scratch 12.0.
 18. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 Scheduling of processes/work is done to finish the work on time. CPU Scheduling is a process that allows one process to use the CPU while another process is delayed (in standby) due to unavailability of any resources such as I / O etc, thus making full use of the CPU. The purpose of CPU Scheduling is to make the system more efficient, faster, and fairer.
 
+19. [How to Create Linux Symlinks](https://www.linode.com/docs/guides/linux-symlinks/)<br>
+Explains how to create SymLinks, which is one of the assignments for the WEEK09 Pop Quiz.
+
+20. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)<br>
+I/O Hardware is a set of specialized hardware devices that help the operating system access disk drives, printers, and other peripherals. These devices are located inside the motherboard and connected to the processor using a bus. They often have specialized controllers that allow them to quickly respond to requests from software running on top of them or even respond directly to commands from an application program. This web page will discuss in detail I/O Hardware basics such as daisy chain expansion bus controller memory-mapped I/O Direct Memory Access (DMA).
+
 <br>
 <hr>
