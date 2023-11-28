@@ -65,5 +65,11 @@ Explains how to create SymLinks, which is one of the assignments for the WEEK09 
 20. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)<br>
 I/O Hardware is a set of specialized hardware devices that help the operating system access disk drives, printers, and other peripherals. These devices are located inside the motherboard and connected to the processor using a bus. They often have specialized controllers that allow them to quickly respond to requests from software running on top of them or even respond directly to commands from an application program. This web page will discuss in detail I/O Hardware basics such as daisy chain expansion bus controller memory-mapped I/O Direct Memory Access (DMA).
 
+21. [RAID (Redundant Arrays of Independent Disks)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+RAID is a technique that makes use of a combination of multiple disks instead of using a single disk for increased performance, data redundancy, or both. The term was coined by David Patterson, Garth A. Gibson, and Randy Katz at the University of California, Berkeley in 1987.
+
+22. [Understanding Network Attached Storage](https://www.geeksforgeeks.org/understanding-network-attached-storage/)<br>
+Network-attached storage (NAS) is a file-based storage architecture that makes stored data more accessible to networked devices means multiple users or client devices retrieve data from a single storage system.
+
 <br>
 <hr>
